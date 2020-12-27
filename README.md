@@ -9,7 +9,7 @@ The dashboard enables those working in the health and care system to monitor the
 Our main aims in this project were to help:
 - Clinical Commissioning Groups (CCGs) have an easier time finding and downloading local data
 - Create a consistent and coherent understanding of metrics across regions
-- Improve accessibility so that everyone can benefit from the value in the dashboard
+- Improve accessibility so that everyone can benefit from the value inside the dashboard
 
 ### [NHS Python Community](https://nhs-pycom.net/)
 The NHS Python Community (NHS.pycom) is an open and user-led community that aims help everyone working health and social care develop their programming skills and apply these skills to drive the digital transformation of health care.
