@@ -8,7 +8,7 @@ The dashboard enables those working in the health and care system to monitor the
 
 Our main aims in this project were to help:
 - Clinical Commissioning Groups (CCGs) have an easier time finding and downloading local data
-- Create a consistent and coherent understanding of metrics across regions
+- Create a consistent and coherent understanding of the metrics for analysts across regions
 - Improve accessibility so that everyone can benefit from the value inside the dashboard
 
 ### [NHS Python Community](https://nhs-pycom.net/)
