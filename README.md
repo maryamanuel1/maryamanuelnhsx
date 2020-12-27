@@ -1,6 +1,6 @@
 # Hello, I'm Mary 👋🏾
 
-I'm a data analyst based in London. Currently, I work within the data engineering and analytics team at the [NHSX Analytics Unit](https://www.nhsx.nhs.uk/key-tools-and-info/nhsx-analytics-unit/ "Analytics Unit Homepage") to help drive the digital transformation of health and social care.
+I'm a data analyst based in London, UK. Currently, I work within the data engineering and analytics team at the [NHSX Analytics Unit](https://www.nhsx.nhs.uk/key-tools-and-info/nhsx-analytics-unit/ "Analytics Unit Homepage") to help drive the digital transformation of health and social care.
 
 ## :ocean: Recent Projects 
 ### [NHS App Analytics Dashboard](https://github.com/nhsx/nhs-app-analytics-dashboard) 
