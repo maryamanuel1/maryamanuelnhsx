@@ -1,4 +1,18 @@
-### Hi there 👋
+# Hello, I'm Mary 👋🏾
+
+I'm a data analyst based in London. Currently, I work within the data engineering and analytics team at the [NHSX Analytics Unit](https://www.nhsx.nhs.uk/key-tools-and-info/nhsx-analytics-unit/ "Analytics Unit Homepage") to help drive the digital transformation of health and social care.
+
+## :ocean: Recent Projects 
+### [NHS App Analytics Dashboard](https://github.com/nhsx/nhs-app-analytics-dashboard) 
+Enabling those working in the health and care system to monitor the adoption and uptake of the NHS App.
+
+Our main aims in this project were to help:
+- Clinical Commissioning Groups (CCGs) have an easier time finding and downloading local data
+- Create a consistent and coherent understanding of metrics across regions
+- Improve accessibility so that everyone can benefit from the value in the dashboard
+
+### [NHS Python Community](https://nhs-pycom.net/)
+The NHS Python Community (NHS.pycom) is an open and user led community that aims help everyone working health and social care develop their programming skills and apply these skills to drive the digital transformation of health care.
 
 <!--
 **maryamanuelnhsx/maryamanuelnhsx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
