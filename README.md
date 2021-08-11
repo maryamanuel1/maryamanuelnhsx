@@ -10,7 +10,7 @@ The dashboard enables those working in the health and care system to monitor the
 The NHS Python Community (NHS.pycom) is an open and user-led community that champions the use of python and open code in the NHS and healthcare.
 
 ### [Digital Health Insight](https://nhsx.github.io/digital-health-insights/)
-Buiilding on GP Patient Survey 2021 — a national survey of patients’ experiences of general practice — to shed light on the use of and barriers to accessing online general practice services in England. 
+Building on GP Patient Survey 2021 — a national survey of patients’ experiences of general practice — to shed light on the use of and barriers to accessing online general practice services in England. 
 
 
 <!--Our main aims in this project were to help:
