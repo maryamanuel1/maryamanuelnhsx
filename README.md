@@ -12,6 +12,11 @@ The NHS Python Community (NHS.pycom) is an open and user-led community that cham
 ### [Digital Health Insight](https://nhsx.github.io/digital-health-insights/)
 Building on GP Patient Survey 2021 — a national survey of patients’ experiences of general practice — to shed light on the use of, and barriers to, accessing online general practice services in England. 
 
+### [NHS AI Lab: Data Lens](https://github.com/nhsx/skunkworks-data-lens)
+Using Natural Language Processing (NLP) and other AI technologies, the Data Lens project is creating a universal search engine for health and social care data catalogues and metadata.
+
+### [Open Healthcare Statistics](https://nhsx.github.io/open-health-statistics/)
+Collecting statistics on open source NHS github repositories.
 
 <!--Our main aims in this project were to help:
 - Clinical Commissioning Groups (CCGs) have an easier time finding and downloading local data
