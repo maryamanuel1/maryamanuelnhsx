@@ -26,6 +26,9 @@ Geogrpahic Analysis of use of Patient Online services in England (August 2021)
 ### [Online Services Demographic Modelling [Dev]](https://github.com/nhsx/online-services-demographic-modelling/tree/Dev)
 Exploring the link between deprivation and use of online services 
 
+### [NHSX Analytics Unit - Introduction to SQL for NHS Staff](https://mary-amanuel.gitbook.io/nhsx-analytics-unit-intro-to-sql/)
+An introduction to SQL created for NHS staff by the NHSX Analytics Unit.
+
 
 
 
