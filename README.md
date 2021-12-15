@@ -18,6 +18,17 @@ Using Natural Language Processing (NLP) and other AI technologies, the Data Lens
 ### [Open Healthcare Statistics](https://nhsx.github.io/open-health-statistics/)
 Collecting statistics on open source NHS github repositories.
 
+
+### [Patient Online Mapping](https://nhsx.github.io/patient-online-mapping/)
+Geogrpahic Analysis of use of Patient Online services in England (August 2021)
+
+
+### [Online Services Demographic Modelling [Dev]](https://github.com/nhsx/online-services-demographic-modelling/tree/Dev)
+Exploring the link between deprivation and use of online services 
+
+
+
+
 <!--Our main aims in this project were to help:
 - Clinical Commissioning Groups (CCGs) have an easier time finding and downloading local data
 - Create a consistent and coherent understanding of the metrics for analysts across regions
